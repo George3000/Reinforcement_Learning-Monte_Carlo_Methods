@@ -1,11 +1,32 @@
 
 # coding: utf-8
 
-# # Mini Project: Temporal-Difference Methods
+# # RL FRAMEWORK
+# 
+# ![img1](images/RLFramework1.PNG)
+# 
+# 
+# ![img2](images/RLFramework2.PNG)
+# 
+# 
+# ![img3](images/RLFramework3.PNG)
+# 
+# 
+# ![img4](images/RLFramework4.PNG)
+# 
+# 
+# 
+# 
+# 
+# ----------------------------------------------------------------------------------------------
+# 
+# 
+# ## Mini Project: Temporal-Difference Methods
 # 
 # In this notebook, you will write your own implementations of many Temporal-Difference (TD) methods.
 # 
 # While we have provided some starter code, you are welcome to erase these hints and write your code from scratch.
+# 
 
 # ### Part 0: Explore CliffWalkingEnv
 # 
